@@ -20,8 +20,8 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ### What I learned
 
-The big thing for me in this project wa sthe importantce of wrappers - especially with the smaller details like icons next to dropdown menus or similar.
-Also decided to build custom hamburger menu/dropdown/mobile-nav, with the minimal help of google, just to understand the concepts of their creation. 
+The big thing for me in this project was the importance of wrappers - especially with the smaller details like icons next to dropdown menus or similar.
+Also decided to build a custom hamburger menu/dropdown/mobile-nav, with the minimal help of google, just to understand the concepts of their creation. 
 
 ## Author
 
